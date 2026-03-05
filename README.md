@@ -4,7 +4,7 @@ A Convolutional Neural Network (CNN) trained on the **Fashion MNIST** dataset to
 
 ---
 
-## 📋 Dataset Overview
+## Dataset Overview
 
 The [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset is a drop-in replacement for the classic MNIST handwritten digits dataset. It contains:
 
@@ -31,7 +31,7 @@ The [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset is
 
 ---
 
-## 🏗️ Model Architecture
+## Model Architecture
 
 A Sequential CNN with the following layers:
 
@@ -53,7 +53,7 @@ Dense(10)     → Softmax                  → (10)
 
 ---
 
-## 📊 Training Details
+## Training Details
 
 | Hyperparameter     | Value                    |
 |--------------------|--------------------------|
@@ -70,7 +70,7 @@ Dense(10)     → Softmax                  → (10)
 
 ---
 
-## 📈 Results
+## Results
 
 | Metric         | Value  |
 |----------------|--------|
@@ -79,7 +79,7 @@ Dense(10)     → Softmax                  → (10)
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the repository
 ```bash
@@ -106,7 +106,7 @@ The notebook includes:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 fashion-mnist-classifier/
@@ -122,7 +122,7 @@ fashion-mnist-classifier/
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3.10+
 - TensorFlow 2.x
@@ -131,6 +131,6 @@ fashion-mnist-classifier/
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available for educational purposes.

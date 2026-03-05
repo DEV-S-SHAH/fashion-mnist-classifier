@@ -1,4 +1,4 @@
-# 👗 Fashion MNIST CNN Classifier
+# Fashion MNIST CNN Classifier
 
 A Convolutional Neural Network (CNN) trained on the **Fashion MNIST** dataset to classify clothing items into 10 categories, achieving **~92% test accuracy**.
 
